@@ -1,4 +1,4 @@
-<img src="./banner.svg" width="100%" alt="Poornimaa Devi L — Cloud & Backend Developer"/>
+<img src="./banner.svg?v=1" width="100%" alt="Poornimaa Devi L — Cloud & Backend Developer"/>
 
 <div align="center">
 
