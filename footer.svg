@@ -1,0 +1,19 @@
+<svg width="900" height="130" viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#0f1b35"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#70a5fd;stop-opacity:0.7"/>
+      <stop offset="50%" style="stop-color:#bf91f3;stop-opacity:0.7"/>
+      <stop offset="100%" style="stop-color:#38bdae;stop-opacity:0.7"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="130" fill="url(#bgGrad)"/>
+  <path d="M0,50 C150,20 300,70 450,40 C600,10 750,55 900,30 L900,130 L0,130 Z" fill="url(#waveGrad)" opacity="0.4"/>
+  <path d="M0,70 C200,40 400,80 600,55 C750,35 850,65 900,50 L900,130 L0,130 Z" fill="url(#waveGrad)" opacity="0.25"/>
+  <circle cx="100" cy="90" r="2" fill="#70a5fd" opacity="0.4"/>
+  <circle cx="800" cy="85" r="2" fill="#38bdae" opacity="0.4"/>
+  <circle cx="450" cy="110" r="1.5" fill="#bf91f3" opacity="0.35"/>
+</svg>
